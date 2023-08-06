@@ -1,0 +1,39 @@
+Computer Brain v2.0 assembly instructions:
+
+The CPU goes at the bottom on the board under the LED matrix.
+
+    1. Solder 40 pin socket for the 6502 and the 8 pin for the 555 IC in their spots as they will be the lowest profile. Note the notches directions on the board.
+    2. Solder the 51R resistors to R9 thru R24 at the top of the board. Solder the 1k resistors to R1 thru R8 and R26. Then solder the 10k resistor in to R25.
+        a. To fit the resistors fold one lead over so the leads are pointing the same direction.  As shown.
+
+    3. Solder the 2.2uF capacitor into C1. Make sure you have the polarity correct with the Negative side with the stripe.
+    4. The 102 capacitors goes into C2 and C3. 
+    5. Please Note: the dip switch MUST be installed upside down.  The number 1 is on the right and the word “ON’ will now read “NO” (This way down is a “0” bit and up is “1” bit when programming.)
+    6. Now connect the reset button and potentiometer.
+    7. Solder the 48 LEDs with the anode towards the bottom of the board. 
+    8. Connect USB.
+    9. Solder the 6502 and 555 IC directly in or insert chips into socket. Note the notches directions on the board. 
+     
+
+
+
+
+Quantity	Name	             Designator
+1	6x6 Switch	               RESET
+1	USBMicroPower	                U3
+1	2.2u Electrolytic capacitor	C1
+1	DIP switchEI-08	               DIP1
+1	104 potentiometer	        P1
+1	NE555N	                        U2
+1	MOS 6502	                U1
+1	8 pin socket	                U2
+1	40 pin socket	                U1
+1	6cm standoff	            Mount hole
+2	10k resistor	              R15,R25
+2	.1nF ceramic capacitor	       C3,C2
+9	1K resistor	            R1-R8 & R26
+15	51R resistor	              R9-R24
+48	LED-Red	                      LED1-48
+
+
+
