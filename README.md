@@ -1,5 +1,6 @@
 # computer-brain
-Computer Brain
+
+
 The Computer Brain is a LED matrix is designed to give off a retro computer vibe. The use of the 6502 CPU and the random arrangement of the LEDs are a nod to the early days of computing, when computers were much simpler and more limited. The LED matrix can be used to display a variety of patterns, which can be used to create a visual representation of the CPU's activity or to simply add a bit of retro flair to your workspace.
 
 The MOS 6502 controls the LED matrix by outputting certain patterns on the address line. For example, inputting the hex value AE will have the CPU count in binary from 0 to 255. The LED matrix is designed to be used for aesthetic purposes, such as creating a visual representation of the CPU's activity.
