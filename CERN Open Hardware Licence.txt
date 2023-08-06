@@ -1,0 +1,23 @@
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal
+
+Copyright (c) 2020 CERN
+
+This is a free software license.
+
+You are free to:
+
+Use, study, copy, modify, and distribute this software for any purpose, including commercial applications.
+Under the following terms:
+
+You must give any other recipients of the software the same rights that you have.
+You must indicate if you have altered or modified the software and if so, provide a way for recipients to obtain a copy of the original, unmodified software.
+Any of the above conditions can be waived if you get permission from the copyright holder.
+
+This software is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied, including, without limitation, warranties of merchantability or fitness for a particular purpose.
+
+See the LICENSE file for more details.
+
+The main difference between the CERN-OHL-W and the CERN-OHL-S is that the CERN-OHL-W allows derivative works to be licensed under a different license, as long as the original work is still made available under the CERN OHL. This means that you can take a design that is licensed under the CERN-OHL-W, modify it, and then license your modified design under a different license, such as the GPL or the Apache License.
+
+The CERN-OHL-W is a good choice for projects where you want to allow others to modify your work, but you don't want to force them to license their modifications under the same terms as your work.
+
