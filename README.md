@@ -1,5 +1,7 @@
 # computer-brain
 
+### VIDEO of it working 
+https://youtu.be/NLV3KKiVk-k
 
 The Computer Brain is a LED matrix is designed to give off a retro computer vibe. The use of the 6502 CPU and the random arrangement of the LEDs are a nod to the early days of computing, when computers were much simpler and more limited. The LED matrix can be used to display a variety of patterns, which can be used to create a visual representation of the CPU's activity or to simply add a bit of retro flair to your workspace.
 
